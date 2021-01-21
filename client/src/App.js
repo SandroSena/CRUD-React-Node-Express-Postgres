@@ -1,8 +1,16 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import './App.css';
 
+import InputTodo from './components/InputTodo';
+
 function App() {
-  return <Fragment> </Fragment>;
+  return (
+    <>
+      <div className='container'>
+        <InputTodo />
+      </div>
+    </>
+  );
 }
 
 export default App;
