@@ -7,6 +7,7 @@
 
 ```
 npm install
+```
 
 ### Run React dev server (http://localhost:5000)
 
